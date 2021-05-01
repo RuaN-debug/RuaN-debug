@@ -5,9 +5,8 @@
 <a href="https://twitter.com/eduruan00" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.instagram.com/ruanmarcosb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- Programming skills: C, C++, Java
+- 🔭 I’m currently working on learning new programming languages
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on new projects
 - 📫 How to reach me: email: ruanmbalbino@gmail.com
