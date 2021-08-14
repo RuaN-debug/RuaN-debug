@@ -14,3 +14,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuaN-debug&theme=merko&hide_langs_below=1" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuaN-debug&show_icons=true&theme=merko&line_height=27" alt="**Ruan** github stats"/>
 </a>
+
+![Snake animation](https://github.com/rafaballerini/RuaN-debug/blob/output/github-contribution-grid-snake.svg)
