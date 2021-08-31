@@ -1,6 +1,6 @@
 ### **Hey, you. You're finally awake.**
 
-- 💻 Programming skills: C, C++, Java, Python
+- 💻 Programming languages: C, C++, Java, Python
 - 🔭 I’m currently working on improving my hard skills
 - 🐍 I’m currently learning Javascript, HTML e CSS
 - 👯 I’m looking for a internship
