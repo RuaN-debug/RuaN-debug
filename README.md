@@ -2,7 +2,7 @@
 
 - 💻 Programming languages: C, C++, Java, Python
 - 🐍 I’m learning Javascript, HTML e CSS
-- 🔭 I'm working as a fullstack software engineer intern at [**Curso Ênfase**](https://jobs.enfaselabs.com.br/)
+- 🔭 I'm working as a Fullstack Software Engineer Intern at [**Curso Ênfase**](https://jobs.enfaselabs.com.br/)
 
 ## **Contact**
 
