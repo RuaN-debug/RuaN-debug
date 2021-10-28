@@ -1,8 +1,8 @@
 ### **Hey, you. You're finally awake.**
 
 - 💻 Programming languages: C, C++, Java, Python
-- 🔭 I’m currently working on improving my hard skills
-- 🐍 I’m currently learning Javascript, HTML e CSS
+- 🐍 I’m learning Javascript, HTML e CSS
+- 🔭 I'm working as a fullstack software engineer intern at [**Curso Ênfase**](https://jobs.enfaselabs.com.br/)
 
 ## **Contact**
 
