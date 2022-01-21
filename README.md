@@ -1,7 +1,8 @@
 ### **Hey, you. You're finally awake.**
 
 - 💻 Programming languages: C, C++, Java, Python
-- 🐍 I’m learning Javascript, HTML e CSS
+- 🖱️ I’m learning Javascript, HTML e CSS
+- 💡 I'm currently working as a backend intern at <a href="http://wattio.com.br/">Watt.io</a>
 
 ## **Contact**
 
