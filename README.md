@@ -1,8 +1,8 @@
 ### **Hey, you. You're finally awake.**
 
 - 💻 Programming languages: C, C++, Java, Python
-- 🖱️ I’m learning Javascript, HTML e CSS
-- 💡 I'm currently working as a Backend Developer Jr at <a href="http://wattio.com.br/">Watt.io</a> using Python and Odoo
+- 👨‍💻 I’m learning Javascript, HTML e CSS
+- ⚡ I'm currently working as a Backend Developer Jr at <a href="http://wattio.com.br/">Watt.io</a> using Python and Odoo
 - 👾 I'm really interested in Artificial Intelligence and Machine Learning
 
 ## **Contact**
