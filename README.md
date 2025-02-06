@@ -1,4 +1,4 @@
-### **Hey, you. You're finally awake.**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3200&color=38ca19&lines=Hey,+you.+You're+finally+awake.)
 
 - 💻 Programming languages: C, C++, Java, Python
 - 👨‍💻 I’m learning Javascript, HTML e CSS
